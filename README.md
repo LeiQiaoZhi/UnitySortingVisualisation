@@ -1,2 +1,3 @@
-# UnitySortingVisualisation
-a visualization tool of sorting algorithms made by Unity. personal project.
+# Unity Sorting Visualisation
+a visualization tool of sorting algorithms made by Unity. 
+a personal project.
