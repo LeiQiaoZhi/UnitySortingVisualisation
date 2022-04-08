@@ -1,7 +1,7 @@
 {
 "companyName": "George Lei QiaoZhi",
 "productName": "Sorting_Visualisation",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "SortingVisualizationNew.data.unityweb",
 "wasmCodeUrl": "SortingVisualizationNew.wasm.code.unityweb",
 "wasmFrameworkUrl": "SortingVisualizationNew.wasm.framework.unityweb",
